@@ -1,2 +1,11 @@
 using consoles and console commands.
 This can be useful for some
+
+
+I want to share some changes to machine BI. Need to 1st de file to my local version
+
+00:09:24.410 --> 00:09:28.490
+database then synchronise this base with the server and then the person from
+
+00:09:28.490 --> 00:09:34.520
+machine B needs to synchronize the server based with his local one and only after
